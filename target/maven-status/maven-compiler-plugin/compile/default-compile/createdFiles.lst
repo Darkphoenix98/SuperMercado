@@ -1,0 +1,4 @@
+com\mycompany\supermercado\domain\Producto.class
+com\mycompany\supermercado\snthread\CajeraProductoMain.class
+com\mycompany\supermercado\domain\ClienteProducto.class
+com\mycompany\supermercado\snthread\CajeraProducto.class
